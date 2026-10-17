@@ -1,0 +1,30 @@
+[
+  {
+    "code": "TCS308",
+    "examDate": "2026-12-12",
+    "id": "sub_1792003026691_3358",
+    "name": "Logic Design",
+    "semester": "Semester 3"
+  },
+  {
+    "code": "TCS302",
+    "examDate": "2026-10-20",
+    "id": "sub_1792003150421_6044",
+    "name": "Data Structures",
+    "semester": "Semester 3"
+  },
+  {
+    "code": "TCS401",
+    "examDate": "2027-08-14",
+    "id": "sub_1792080291707_3358",
+    "name": "Java",
+    "semester": "Semester 4"
+  },
+  {
+    "code": "TCS397",
+    "examDate": "2027-10-10",
+    "id": "sub_1792178977993_3358",
+    "name": "Compiler Design",
+    "semester": "Semester 4"
+  }
+]
