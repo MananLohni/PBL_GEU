@@ -78,7 +78,7 @@ The project is being developed incrementally. Searching, sorting, priority-based
 
 - **Rehman ullah Khan** — Team Lead; overall project development and documentation.
 - **Manan Lohni** — Project testing and presentation preparation.
-- **Dipashu Sirohi** — Debugging and technical suggestions.
+- **Dipanshu Sirohi** — Debugging and technical suggestions.
 
 ## 🎓 Academic Information
 
